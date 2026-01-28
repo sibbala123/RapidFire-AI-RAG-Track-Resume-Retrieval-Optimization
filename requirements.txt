@@ -1,0 +1,14 @@
+rapidfireai==0.12.8
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+datasets
+pandas
+numpy
+beautifulsoup4
+lxml
+tiktoken
